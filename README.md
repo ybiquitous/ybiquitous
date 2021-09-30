@@ -1,4 +1,4 @@
-### Hi there, I’m Masafumi Koba 👋
+### Hi, I’m Masafumi Koba 👋
 
 I’m a web programmer loving JavaScript, Ruby, and Emacs.
 
