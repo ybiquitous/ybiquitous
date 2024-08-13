@@ -1,6 +1,6 @@
 ### Hi, I’m Masafumi Koba (ybiquitous) 👋
 
-I’m a programmer loving Ruby, Web, JavaScript, CSS, and Emacs!
+I’m a programmer loving Web, JavaScript, CSS, Ruby, and Emacs!
 
 [![Masafumi Koba’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ybiquitous&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
