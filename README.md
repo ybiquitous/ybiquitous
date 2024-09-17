@@ -8,5 +8,5 @@ I’m a programmer loving Web, JavaScript, CSS, Ruby, and Emacs!
 
 ---
 
-- [Homepage](https://ybiquitous.me/)
-- [Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/1GMCCE7YLDE4P?ref_=wl_share)
+[Homepage](https://ybiquitous.me/)
+
