@@ -8,5 +8,5 @@ I’m a programmer loving Web, JavaScript, CSS, Ruby, and Emacs!
 
 ---
 
-[Homepage](https://ybiquitous.me/)
+Homepage: [ybiquitous.me](https://ybiquitous.me/)
 
