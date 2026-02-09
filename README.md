@@ -2,9 +2,9 @@
 
 I’m a programmer loving Web, JavaScript, CSS, Ruby, and Emacs!
 
-[![Masafumi Koba’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ybiquitous&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Masafumi Koba’s GitHub stats](profile/stats.svg)](https://github.com/ybiquitous)
 
-[![Masafumi Koba’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybiquitous&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Masafumi Koba’s Top Langs](profile/top-langs.svg)](https://github.com/ybiquitous)
 
 ---
 
