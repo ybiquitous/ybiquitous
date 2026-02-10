@@ -6,6 +6,8 @@ I’m a programmer loving Web, JavaScript, CSS, Ruby, and Emacs!
 
 [![Masafumi Koba’s Top Langs](profile/top-langs.svg)](https://github.com/ybiquitous)
 
+<sup>Powered by [GitHub Readme Stats](https://github.com/stats-organization/github-readme-stats)</sup>
+
 ---
 
 Homepage: [ybiquitous.me](https://ybiquitous.me/)
