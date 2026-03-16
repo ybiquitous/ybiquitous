@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Masafumi Koba's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 70, Total Commits  (last year) : 856, Total PRs: 3949, Total Issues: 359, Contributed to (last year): 38</desc>
+        <desc id="descId">Total Stars Earned: 70, Total Commits  (last year) : 856, Total PRs: 3952, Total Issues: 359, Contributed to (last year): 38</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >3.9k</text>
+      >4k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
