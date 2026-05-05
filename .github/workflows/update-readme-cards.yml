@@ -40,6 +40,6 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit --message="Update README cards" --verbose
-          git show HEAD
+          git commit --message="Update README cards"
+          git show --stat HEAD
           git push
