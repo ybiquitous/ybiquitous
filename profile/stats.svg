@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Masafumi Koba's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 70, Total Commits  (last year) : 1013, Total PRs: 4064, Total Issues: 364, Contributed to (last year): 37</desc>
+        <desc id="descId">Total Stars Earned: 70, Total Commits  (last year) : 1035, Total PRs: 4082, Total Issues: 365, Contributed to (last year): 37</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.4274262695351;
+        stroke-dashoffset: 39.2779700098564;
       }
     }
   
@@ -191,7 +191,7 @@
         x="199.01"
         y="12.5"
         data-testid="issues"
-      >364</text>
+      >365</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
